@@ -1,0 +1,16 @@
+# Operating System Files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Local databases
+*.sqlite
+*.sqlite3
+!database.sql
+
+# Log files
+*.log
